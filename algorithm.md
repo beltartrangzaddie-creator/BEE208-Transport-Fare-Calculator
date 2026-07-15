@@ -13,7 +13,7 @@ The system should collect passenger information, validate the input, calculate t
 The program accepts the following inputs:
 
 1. Passenger Name
-2. Route Name
+2. Route name
 3. Transport Type
 4. Passenger Category
 5. Distance travelled (km)
